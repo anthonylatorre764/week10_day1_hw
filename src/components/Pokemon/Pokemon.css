@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+
+#pokemon_card {
+    border: 4px solid black;
+    background-color: rgba(229, 229, 94, 0.277);
+}
+
+.abilities {
+    background-color: rgba(235, 235, 141, 0.146);
+}

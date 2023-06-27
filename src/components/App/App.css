@@ -1,0 +1,17 @@
+#label_input {
+    display: inline-block;
+    margin: 10px;
+    width: 270px;
+}
+
+label {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 130px;
+    background-color: rgba(238, 236, 132, 0.651);
+    border: 1px solid gray;
+    border-radius: 5px;
+}
